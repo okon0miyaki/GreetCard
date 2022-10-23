@@ -3,9 +3,10 @@ body {
 }
 
 h1 {
- border-top-style: inset;
  background-color: gray;
  font: Arial;
  color: white;
- border-bottom-style: outset;
+ border-style: dashed;
+ border-width: 4px;
+ border-color: white;
 }
