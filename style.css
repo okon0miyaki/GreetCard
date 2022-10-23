@@ -4,12 +4,6 @@ body {
 
 h1 {
  background-color: gray;
-}
-
-h2 {
- background-color: gray;
-}
-
-h3 {
- background-color: gray;
+ font: Arial;
+ color: white;
 }
