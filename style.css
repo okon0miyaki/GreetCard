@@ -3,7 +3,9 @@ body {
 }
 
 h1 {
+ border-top-style: inset;
  background-color: gray;
  font: Arial;
  color: white;
+ border-bottom-style: outset;
 }
